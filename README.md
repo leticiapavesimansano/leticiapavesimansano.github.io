@@ -1,4 +1,3 @@
-# Welcome to my portfolio page
 ## (Page under construction)
 
 I am a computer engineer who started developing software. Although, I discovered that design reports, documents, and writing procedures were something I liked more.
